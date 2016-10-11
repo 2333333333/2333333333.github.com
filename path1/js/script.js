@@ -18,31 +18,31 @@
 
 
 var ImgUrl=[
-"img/0.jpg",
-"img/1.jpg",
-"img/2.jpg",
-"img/3.jpg",
-"img/4.jpg",
-"img/5.jpg",
-"img/6.jpg",
-"img/7.jpg",
-"img/8.jpg",
-"img/9.jpg",
-"img/10.jpg",
-"img/11.jpg",
-"img/12.jpg",
-"img/13.jpg",
-"img/14.jpg",
-"img/15.jpg",
-"img/16.jpg",
-"img/17.jpg",
-"img/18.jpg",
-"img/19.jpg",
-"img/20.jpg",
-"img/21.jpg",
-"img/22.jpg",
-"img/23.jpg",
-"img/24.jpg"
+"http://p1.bqimg.com/567571/5bc2b745191bc7ab.jpg",
+"http://p1.bqimg.com/567571/3268734ee7814452.jpg",
+"http://p1.bqimg.com/567571/0b6593947068500c.jpg",
+"http://p1.bqimg.com/567571/0a1fe12023e53dec.jpg",
+"http://p1.bqimg.com/567571/1852aa60bd4a5f16.jpg",
+"http://p1.bqimg.com/567571/d9b9fd568529f919.jpg",
+"http://p1.bqimg.com/567571/5f6e6a0a9208bd59.jpg",
+"http://p1.bqimg.com/567571/78998afce4ad5667.jpg",
+"http://p1.bqimg.com/567571/3857157de5018ac2.jpg",
+"http://p1.bqimg.com/567571/53981a725d79d7cb.jpg",
+"http://p1.bqimg.com/567571/3b46535ddb18645b.jpg",
+"http://p1.bqimg.com/567571/cb2c509bd49bd0da.jpg",
+"http://p1.bqimg.com/567571/2aa5b61639ac9d2f.jpg",
+"http://p1.bqimg.com/567571/ff1944e939db4113.jpg",
+"http://p1.bqimg.com/567571/ce7ab856019cb13e.jpg",
+"http://p1.bqimg.com/567571/693e4ef70e0f1a3d.jpg",
+"http://p1.bqimg.com/567571/90ca600d453cd8e6.jpg",
+"http://p1.bqimg.com/567571/108908297b733b64.jpg",
+"http://p1.bqimg.com/567571/87ffb62ca4a461de.jpg",
+"http://p1.bqimg.com/567571/e9cde9d44f12173b.jpg",
+"http://p1.bqimg.com/567571/ef13bcfe9dd204f3.jpg",
+"http://p1.bqimg.com/567571/d8d01a7ad8e83dad.jpg",
+"http://p1.bqimg.com/567571/c15332168297feb6.jpg",
+"http://p1.bqimg.com/567571/4119b70047c26dce.jpg",
+"http://p1.bqimg.com/567571/fa4eab8d83045acf.jpg"
 ];
 var ImgPV_T = [];
 var ImgPV_L = [];
@@ -50,7 +50,7 @@ var arr     = [];
 var leftP   = [];
 var topP    = [];
 var body_bg = new Image();
-body_bg.src = 'img/body_bg.jpg';
+body_bg.src = 'http://p1.bqimg.com/567571/e2c2a621c828b89c.jpg';
 
 $(body_bg).load(function (){
 	var bodyH  = 0;

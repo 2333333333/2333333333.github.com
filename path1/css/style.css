@@ -25,7 +25,7 @@ transition: transform 1s;
 .load{width: 100%; height: 100%; position: fixed; z-index: 12;}
 .load span{ display: block;  width: 32px; height: 32px; background: #ffffff; padding: 10px; position: fixed; top: 50%; left: 50%; margin-left: -21px; margin-top: -21px; border-radius: 10px; box-shadow: 1px 1px 2px #111111;}
 
-.left,.right{width: 94px; height: 120px; background: url(../img/button.png); cursor: pointer; position: fixed; top: 50%; margin-top: -35px; opacity: 0.8; filter:alpha(opacity=90); z-index: 99;}
+.left,.right{width: 94px; height: 120px; background: url(http://p1.bqimg.com/567571/9432212585e3e2b7.png); cursor: pointer; position: fixed; top: 50%; margin-top: -35px; opacity: 0.8; filter:alpha(opacity=90); z-index: 99;}
 .left{background-position: -206px 0;   left: 0px; margin-left: -95px;}
 .right{background-position: 0px 0;   right: 0px;  margin-right: -95px;}
 
